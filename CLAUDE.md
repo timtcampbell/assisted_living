@@ -13,6 +13,10 @@ This project compares assisted living facilities in Wisconsin — primarily the 
 | [hatties_glen_waunakee.md](hatties_glen_waunakee.md) | Hattie's Glen Waunakee | Waunakee, WI | CBRF — AL & Memory Care |
 | [homestead_living_waunakee.md](homestead_living_waunakee.md) | Homestead Living, Inc. | Waunakee, WI | CBRF — Memory Care only |
 | [sage_meadow_middleton.md](sage_meadow_middleton.md) | Sage Meadow Middleton | Middleton, WI | CBRF — AL & Memory Care (Koru Health LLC) |
+| [brookdale_middleton_stonefield.md](brookdale_middleton_stonefield.md) | Brookdale Middleton Stonefield | Middleton, WI | CBRF — Memory Care only (Brookdale Senior Living) |
+| [legacy_deforest.md](legacy_deforest.md) | The Legacy of DeForest | DeForest, WI | CBRF + RCAC — IL, AL & Memory Care (Park Vista) |
+| [willow_glen_madison.md](willow_glen_madison.md) | Willow Glen (fka Cottages of Madison) | Madison, WI | CBRF — AL & Memory Care (NuCare Senior Living LLC) |
+| [complete_care_maple_grove.md](complete_care_maple_grove.md) | Complete Care at Maple Grove (fka SSM Health St. Mary's Care Center) | Madison, WI | **Nursing Home (SNF)** — Skilled Nursing, LTC, Memory Care (Complete Care Management) |
 
 ---
 
