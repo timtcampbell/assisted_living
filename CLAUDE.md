@@ -11,6 +11,7 @@ This project compares assisted living facilities in Wisconsin — primarily the 
 | [beehive_mt_horeb.md](beehive_mt_horeb.md) | BeeHive Homes of Mt. Horeb | Mount Horeb, WI | CBRF — AL & Memory Care |
 | [heritage_middleton.md](heritage_middleton.md) | Heritage Middleton | Middleton, WI | RCAC + CBRF — AL, Enhanced AL, Memory Care |
 | [hatties_glen_waunakee.md](hatties_glen_waunakee.md) | Hattie's Glen Waunakee | Waunakee, WI | CBRF — AL & Memory Care |
+| [homestead_living_waunakee.md](homestead_living_waunakee.md) | Homestead Living, Inc. | Waunakee, WI | CBRF — Memory Care only |
 
 ---
 
