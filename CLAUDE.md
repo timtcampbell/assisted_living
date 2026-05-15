@@ -12,6 +12,7 @@ This project compares assisted living facilities in Wisconsin — primarily the 
 | [heritage_middleton.md](heritage_middleton.md) | Heritage Middleton | Middleton, WI | RCAC + CBRF — AL, Enhanced AL, Memory Care |
 | [hatties_glen_waunakee.md](hatties_glen_waunakee.md) | Hattie's Glen Waunakee | Waunakee, WI | CBRF — AL & Memory Care |
 | [homestead_living_waunakee.md](homestead_living_waunakee.md) | Homestead Living, Inc. | Waunakee, WI | CBRF — Memory Care only |
+| [sage_meadow_middleton.md](sage_meadow_middleton.md) | Sage Meadow Middleton | Middleton, WI | CBRF — AL & Memory Care (Koru Health LLC) |
 
 ---
 
